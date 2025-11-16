@@ -19,4 +19,4 @@ Dernières versions :
 
 Bon téléchargement...
 
-Visitez les repositories sur Github :[Docroger sur Github] (https://github.com/docroger)
+>> Aller sur Github :[Docroger sur Github] (https://github.com/docroger)
