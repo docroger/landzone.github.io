@@ -18,3 +18,5 @@ Dernières versions :
   - Winpik 1.8
 
 Bon téléchargement...
+
+Visitez les repositories sur Github : https://github.com/docroger
